@@ -4,7 +4,7 @@ import streamlit as st
 import pickle
 from PIL import Image
 
-model = pickle.load(open('model.sav', 'rb'))
+model = pickle.load(open('model.sav','rb'))
 
 st.title('Forest fire Prediction')
 st.sidebar.header('Forest Fire Data')
