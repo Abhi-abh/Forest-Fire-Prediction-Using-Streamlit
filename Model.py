@@ -49,4 +49,4 @@ Specificity = metrics.recall_score(y_test, y_pred, pos_label=0)
 print({"Accuracy":accuracy,"Precision":precision,"Sensitivity_recall":sensitivity_recall,"Specificity":Specificity,"F1_score":f1_score})
 
 import pickle
-pickle.dump(model, open('./model.sav', 'wb'))
+pickle.dump(model, open('./model.sav','wb'))
