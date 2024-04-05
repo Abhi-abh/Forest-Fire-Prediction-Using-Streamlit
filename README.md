@@ -4,4 +4,4 @@
 
 ![forest_fire](fire.jpeg)
 
-WebApp hosted at- https://forest-fire-prediction.streamlit.app/
+WebApp hosted at- https://forest-fire-prediction-using-app-ixznfxbfqny5xgttdearct.streamlit.app/
